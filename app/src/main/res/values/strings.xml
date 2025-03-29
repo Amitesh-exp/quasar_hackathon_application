@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registration and Firebase</string>
+    <string name="login_text"><b><u>Log in</u></b></string>
+    <string name="web_client_id">1061366225070-7jfug0qj3oocb9o640od60agkbos2dc5.apps.googleusercontent.com</string>
+</resources>
